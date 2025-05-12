@@ -2,7 +2,7 @@
 
 A sleek, responsive weather application built using **HTML**, **CSS**, and **JavaScript** that allows users to search for current weather conditions in any city across the globe.
 
-![Weather App Screenshot](screenshot.png) <!-- Replace with your actual image path -->
+![Weather App Screenshot](https://github.com/Ruchi2205/weather-app/blob/main/images/jj.png) <!-- Replace with your actual image path -->
 
 ---
 
@@ -28,4 +28,5 @@ A sleek, responsive weather application built using **HTML**, **CSS**, and **Jav
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ruchi2205/weather-app.git
+   git clone https://github.com/Ruchi2205/weather-app.git
+   ```
